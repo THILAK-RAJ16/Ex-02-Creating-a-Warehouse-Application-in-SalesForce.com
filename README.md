@@ -1,5 +1,8 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
+# Name: THILAK RAJ . P
+# Register Number: 212224040353
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
